@@ -105,8 +105,11 @@ flutter build ios --release
 ```
 
 ## 🙏 Acknowledgments
-- Built with [Rocket.new](https://rocket.new)
+
 - Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
 - Styled with Material Design
+<img width="372" height="751" alt="Screenshot 2025-07-26 223251" src="https://github.com/user-attachments/assets/ba20f489-61f1-41f1-b5c6-a915a64430af" />
+<img width="385" height="755" alt="Screenshot 2025-07-26 223243" src="https://github.com/user-attachments/assets/8926d7f7-3f5d-4249-a2c6-8dd2c9142fd5" />
+<img width="399" height="753" alt="Screenshot 2025-07-26 223122" src="https://github.com/user-attachments/assets/68e3f6b4-ece7-4a09-ab0e-a02338f8d45d" />
+<img width="374" height="743" alt="Screenshot 2025-07-26 223107" src="https://github.com/user-attachments/assets/529358c4-351d-4f68-8b51-9ec2cba38ad2" />
 
-Built with ❤️ on Rocket.new
